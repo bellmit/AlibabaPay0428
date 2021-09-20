@@ -56,7 +56,7 @@
 		<thumbnailator.version>0.4.7</thumbnailator.version>
 		<mail.version>1.4.7</mail.version>
 		<xbean-spring.version>3.17</xbean-spring.version>
-		<xmlsec.version>1.5.6</xmlsec.version>
+		<xmlsec.version>2.1.7</xmlsec.version>
 
 		<shiro.version>1.2.2</shiro.version>
 		<cxf.version>2.7.5</cxf.version>
